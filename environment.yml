@@ -12,3 +12,4 @@ dependencies:
   - vaex=1.0.0
   - static-frame=0.3.0
   - dask=1.2.0
+  - lxml
