@@ -27,6 +27,12 @@ Talk being delivered or proposed to the next conferences:
 
 ## Set up
 
+You can run the slides online using Binder:
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/datapythonista/pandas_ecosystem.git/master)
+
+Or you can install it locally:
+
 - Install [Miniconda 3.7](https://docs.conda.io/en/latest/miniconda.html)
 - Open an Anaconda/UNIX terminal
 - `git clone https://github.com/datapythonista/pandas_ecosystem.git`
