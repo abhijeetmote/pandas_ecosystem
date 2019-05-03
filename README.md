@@ -2,6 +2,8 @@
 
 Slides of the _pandas ecosystem 2019_ talk.
 
+![](https://raw.githubusercontent.com/datapythonista/pandas_ecosystem/master/img/pandas_ecosystem.jpg)
+
 pandas is more than 10 years old now. In this time, it became almost a standard
 for building data pipelines and perform data analysis in Python.
 As the popularity of the project grows, it also grows the number of projects
