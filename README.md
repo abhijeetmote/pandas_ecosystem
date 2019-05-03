@@ -36,3 +36,16 @@ Talk being delivered or proposed to the next conferences:
 - `jupyter notebook`
 - Open `pandas_ecosystem.ipynb` notebook
 - Click the icon with the bar plot to show as slides with [RISE](https://damianavila.github.io/RISE/)
+
+## Speaker
+
+Marc Garcia is a pandas core developer and Python fellow.
+
+He has been working in Python for more than 12 years, and worked as data scientist and data engineer
+for different companies such as Bank of America, Tesco and Badoo.
+
+He is a regular speaker at PyData and PyCon conferences, and a regular organizer of sprints.
+
+[Website](https://datapythonista.github.io)
+[Twitter](https://twitter.com/datapythonista) 
+[LinkedIn](https://www.linkedin.com/in/datapythonista/)
