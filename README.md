@@ -46,6 +46,6 @@ for different companies such as Bank of America, Tesco and Badoo.
 
 He is a regular speaker at PyData and PyCon conferences, and a regular organizer of sprints.
 
-[Website](https://datapythonista.github.io)
-[Twitter](https://twitter.com/datapythonista) 
+[Website](https://datapythonista.github.io) |
+[Twitter](https://twitter.com/datapythonista) |
 [LinkedIn](https://www.linkedin.com/in/datapythonista/)
