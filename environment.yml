@@ -2,6 +2,7 @@ name: pandas_ecosystem
 channels:
   - defaults
   - conda-forge
+  - rapidsai
 dependencies:
   - jupyter
   - rise
@@ -13,5 +14,6 @@ dependencies:
   - static-frame=0.3.0
   - dask=1.2.0
   - hvplot
+  - cudf
   - pip:
     - pandas-bokeh
